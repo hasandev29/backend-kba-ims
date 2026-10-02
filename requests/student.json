@@ -1,0 +1,160 @@
+{
+    "classroom_id": 12,
+    "account": {
+        "user_id":         "admin1",
+        "role": "admin",
+        "status": "active",
+        "password":        "admin@1"
+    },
+
+    "personal_details": {
+        "name":            "Mohammed Arafath",
+        "roll_number":     "KBA2026001",
+        "dob":             "2004-03-15",
+        "gender":          1,
+        "batch_id":      8,
+        "blood_group":     4,
+        "mother_tongue":   "Tamil",
+        "email":  "arafath@mail.com",
+        "mobile_number": "9876543210",
+        "is_hostel":       1,
+        "photo_url":       "https://drive.google.com/…/photo.jpg"
+    },
+  
+    "other_details": {
+        "religion_id": 2,
+        "caste_id": 15,
+        "social_category_id": 4,
+        "madhab_id": 1,
+      "is_orphan":  0,
+      "aadhar_no":       "123456789012",
+      "medical_remarks": "null",
+      "notes": "Nill"
+    },
+
+    "academic_details": {
+        "rrn":                 "2610001",
+        "univ_email":          "arafath@crescent.education",
+        "yoj":                 2026,
+        "yoc":                 2030,
+        "madras_course":       "B.Com",
+        "madras_roll_no":      "2026MU001",
+        "madras_joining_year": 2026
+      },
+
+    "family_details": {
+        "father_name":           "Mohammed Ismail",
+        "father_mobile":         "9876511111",
+        "father_education":      "Graduate",
+        "father_occupation":     "Business",
+        "father_annual_income":         480000,
+        "mother_name":           "Raheema Banu",
+        "mother_mobile":         "9876522222",
+        "mother_education":      "HSC",
+        "mother_occupation":     "Homemaker",
+        "mother_annual_income":  0,
+        "parent_email":          "parent@mail.com",
+        "parent_whatsapp":       "9876500000",
+        "parent_sms":            "9876500001",
+        "guardian_name":         null,
+        "guardian_mobile":       null,
+        "guardian_relationship": null,
+        "guardian_address":      null
+      },
+  
+    "address": [{
+          "address_type": 0,
+          "door_no":  "12A",
+          "street":   "Gandhi Street",
+          "area":     "Tambaram",
+          "city":     "Chennai",
+          "district": "Chennai",
+          "state":    "Tamil Nadu",
+          "country":  "India",
+          "pin_code": "600045"
+        },
+         {
+          "address_type": 1,
+          "door_no":  "1",
+          "street":   "Hostel Road",
+          "area":     "Campus",
+          "city":     "Vandalur",
+          "district": "Chennai",
+          "state":    "Tamil Nadu",
+          "country":  "India",
+          "pin_code": "600048"
+        }
+    ],  
+  
+    
+      "qualifications": [
+        {
+        "level": "10th",
+        "school_name":    "GHSS Tambaram",
+        "board":          "State Board",
+        "medium":         "Tamil",
+        "passing_year":   "2020",
+        "passing_month":  "March",
+        "school_address": "Tambaram, Chennai",
+        "reg_number":     "2000001",
+        "marks":          490,
+        "total_marks":    500,
+        "emis":           "1234567890"
+      },
+      {
+        "level": "11th",
+        "school_name":    "GHSS Tambaram",
+        "board":          "State Board",
+        "medium":         "Tamil",
+        "passing_year":   "2021",
+        "passing_month":  "March",
+        "school_address": "Tambaram, Chennai",
+        "reg_number":     "2100001",
+        "marks":          930,
+        "total_marks":    1000,
+        "emis":           "1234567890"
+      },
+      {
+        "level": "12th",
+        "school_name":    "GHSS Tambaram",
+        "board":          "State Board",
+        "medium":         "Tamil",
+        "passing_year":   "2022",
+        "passing_month":  "March",
+        "school_address": "Tambaram, Chennai",
+        "reg_number":     "2200001",
+        "marks":          950,
+        "total_marks":    1000,
+        "emis":           "1234567890"
+      }],
+      
+    "extra_qualifications": [
+            {
+              "course_name": "Diploma in Arabic Language",
+              "cert_url":    "https://drive.google.com/…/arabic-diploma.pdf"
+            },
+            {
+              "course_name": "Certificate in Tajweed",
+              "cert_url":    null
+            }
+          ],
+    
+      "admission_details": {
+        "admission_date":            "2026-06-01",
+        "entrance_mark":  88,
+        "entrance_rank":  12,
+        "hafiz":          false,
+        "recommended_by": "Alumni"
+      },
+
+      "related_links": [
+        {
+          "description": "Aadhar Card",
+          "url":         "https://drive.google.com/…/aadhar.pdf"
+        },
+        {
+          "description": "Grade 12 Marksheet",
+          "url":         "https://drive.google.com/…/marksheet.pdf"
+        }
+      ]
+  }
